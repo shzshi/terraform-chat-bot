@@ -5,6 +5,9 @@ using local Terraform modules — powered by Groq.
 
 ---
 
+![](https://github.com/shzshi/terraform-chat-bot/blob/master/terraform-agent.gif)
+
+
 ## Architecture
 
 ```
