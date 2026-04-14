@@ -1,0 +1,7 @@
+logs/*
+terraform_workspace/*
+.env
+agent/__pycache__/*
+utils/__pycache__/*
+terraform/__pycache__/*
+terraform_modules/__pycache__/*
