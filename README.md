@@ -5,7 +5,11 @@ using local Terraform modules — powered by Groq.
 
 ---
 
-![](https://github.com/shzshi/terraform-chat-bot/blob/master/terraform-agent.gif)
+<video src="AWS Terraform.mp4" controls width="600"></video>
+
+<video src="Azure Terraform.mp4" controls width="600"></video>
+
+<video src="AWS Terraform-chatbot.mp4" controls width="600"></video>
 
 
 ## Architecture
