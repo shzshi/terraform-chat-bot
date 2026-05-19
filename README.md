@@ -5,12 +5,11 @@ using local Terraform modules — powered by Groq.
 
 ---
 
-<video src="AWS Terraform.mp4" controls width="600"></video>
+![](https://github.com/yadavnaveen351/AWS-Terraform-chat-bot/blob/master/AWS-Terraform-AI.gif)
 
-<video src="Azure Terraform.mp4" controls width="600"></video>
+![](https://github.com/yadavnaveen351/AWS-Terraform-chat-bot/blob/master/AWS-Terraform.gif)
 
-<video src="AWS Terraform-chatbot.mp4" controls width="600"></video>
-
+![](https://github.com/yadavnaveen351/AWS-Terraform-chat-bot/blob/master/Azure-Terraform.gif)
 
 ## Architecture
 
